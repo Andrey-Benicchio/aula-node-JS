@@ -3,9 +3,9 @@
 -- ter este arquivo aqui não significa que a tabela em seu BD estará como abaixo!
 
 /* para workbench - local - desenvolvimento */
-CREATE DATABASE pigtech;
+CREATE DATABASE acquatec;
 
-USE pigtech;
+USE acquatec;
 
 CREATE TABLE usuario (
 	id INT PRIMARY KEY AUTO_INCREMENT,
